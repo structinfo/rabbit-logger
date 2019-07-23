@@ -1,0 +1,8 @@
+{
+  "apps": [{
+    "name": "logger",
+    "script": "./logger.js",
+    "log_file": "./logger.log",
+    "log_date_format": "YYYY-MM-DD HH:mm"
+  }]
+}

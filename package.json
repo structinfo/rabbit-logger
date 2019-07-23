@@ -1,0 +1,15 @@
+{
+  "name": "rabbit-logger",
+  "version": "0.1.0",
+  "description": "",
+  "main": "logger.js",
+  "scripts": {
+    "start": "pm2 start pm2.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
